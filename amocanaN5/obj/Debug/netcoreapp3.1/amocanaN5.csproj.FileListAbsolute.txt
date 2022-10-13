@@ -1,0 +1,13 @@
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.exe
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.deps.json
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.runtimeconfig.json
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.runtimeconfig.dev.json
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.dll
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\bin\Debug\netcoreapp3.1\amocanaN5.pdb
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.csprojAssemblyReference.cache
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.AssemblyInfoInputs.cache
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.AssemblyInfo.cs
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.csproj.CoreCompileInputs.cache
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.dll
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.pdb
+C:\Users\Sky\source\repos\amocanaN5\amocanaN5\obj\Debug\netcoreapp3.1\amocanaN5.genruntimeconfig.cache
